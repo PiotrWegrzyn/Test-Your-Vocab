@@ -1,0 +1,7 @@
+{
+  "env":{
+    "MONGO_ATLAS_UM": "Enter your Mongo DB usrname here",
+    "MONGO_ATLAS_PW":"Enter your Mongo DB password here",
+    "JWT_KEY": "wow2much1stronk3key7wow1much4secret8wow8"
+  }
+}
